@@ -1,0 +1,10 @@
+D:\Visual Studio\ChannelPacking\ChannelPacking\bin\Release\ChannelPacking.exe.config
+D:\Visual Studio\ChannelPacking\ChannelPacking\bin\Release\ChannelPacking.exe
+D:\Visual Studio\ChannelPacking\ChannelPacking\bin\Release\ChannelPacking.pdb
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\ChannelPacking.csprojAssemblyReference.cache
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\TexturesToRGBchannels.Form1.resources
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\ChannelPacking.Properties.Resources.resources
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\ChannelPacking.csproj.GenerateResource.cache
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\ChannelPacking.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\ChannelPacking.exe
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Release\ChannelPacking.pdb

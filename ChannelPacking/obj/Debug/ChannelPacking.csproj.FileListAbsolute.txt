@@ -1,0 +1,9 @@
+D:\Visual Studio\ChannelPacking\ChannelPacking\bin\Debug\ChannelPacking.exe.config
+D:\Visual Studio\ChannelPacking\ChannelPacking\bin\Debug\ChannelPacking.exe
+D:\Visual Studio\ChannelPacking\ChannelPacking\bin\Debug\ChannelPacking.pdb
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.csprojAssemblyReference.cache
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.Properties.Resources.resources
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.csproj.GenerateResource.cache
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.exe
+D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.pdb
