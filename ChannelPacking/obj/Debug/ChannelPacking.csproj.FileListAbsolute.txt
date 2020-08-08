@@ -7,3 +7,13 @@ D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.csproj.G
 D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.csproj.CoreCompileInputs.cache
 D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.exe
 D:\Visual Studio\ChannelPacking\ChannelPacking\obj\Debug\ChannelPacking.pdb
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\bin\Debug\ChannelPacking.exe.config
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\bin\Debug\ChannelPacking.exe
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\bin\Debug\ChannelPacking.pdb
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\ChannelPacking.csprojAssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\TexturesToRGBchannels.Form1.resources
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\ChannelPacking.Properties.Resources.resources
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\ChannelPacking.csproj.GenerateResource.cache
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\ChannelPacking.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\ChannelPacking.exe
+C:\Users\Filip\Documents\GitHub\Channel-packing\ChannelPacking\obj\Debug\ChannelPacking.pdb

@@ -45,6 +45,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.save = new System.Windows.Forms.Button();
+            this.defaultColor = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.red)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.green)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.blue)).BeginInit();
@@ -213,11 +214,27 @@
             this.save.UseVisualStyleBackColor = true;
             this.save.Click += new System.EventHandler(this.save_Click);
             // 
+            // defaultColor
+            // 
+            this.defaultColor.AutoSize = true;
+            this.defaultColor.Checked = true;
+            this.defaultColor.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.defaultColor.Location = new System.Drawing.Point(759, 32);
+            this.defaultColor.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.defaultColor.Name = "defaultColor";
+            this.defaultColor.Size = new System.Drawing.Size(94, 17);
+            this.defaultColor.TabIndex = 17;
+            this.defaultColor.Text = "Empty is black";
+            this.defaultColor.UseVisualStyleBackColor = true;
+            this.defaultColor.CheckedChanged += new System.EventHandler(this.defaultColor_CheckedChanged);
+            // 
             // Form1
             // 
+            this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(880, 369);
+            this.Controls.Add(this.defaultColor);
             this.Controls.Add(this.save);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -238,6 +255,8 @@
             this.Name = "Form1";
             this.Text = "Channel Packing";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.DragDrop += new System.Windows.Forms.DragEventHandler(this.Form1_DragDrop);
+            this.DragEnter += new System.Windows.Forms.DragEventHandler(this.Form1_DragEnter);
             ((System.ComponentModel.ISupportInitialize)(this.red)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.green)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.blue)).EndInit();
@@ -266,6 +285,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button save;
+        private System.Windows.Forms.CheckBox defaultColor;
     }
 }
 
