@@ -1,3 +1,7 @@
+## This is project is outdated
+### Check out the new one with more features and 16 bit image support!
+[https://github.com/Fidifis/TextureMerge](https://github.com/Fidifis/TextureMerge)
+
 # Channel-packing
 ## software to pack textures into image RGBA channels
 
